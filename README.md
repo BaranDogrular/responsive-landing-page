@@ -33,7 +33,7 @@ Bu projede herhangi bir framework kullanılmamıştır.
 
 ---
 
-## 📂 Proje Yapısı
+##  Proje Yapısı
 
 ```
 project
@@ -54,7 +54,7 @@ project
 
 ---
 
-## 👨‍💻 Geliştirici
+##  Geliştirici
 
 Geliştiren: Baran Doğrular
 
