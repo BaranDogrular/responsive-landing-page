@@ -8,7 +8,7 @@ Site; **scroll animasyonları, araç tanıtım bölümü, pilot modalı ve galer
 
 ##  Önizleme
 
-![Landing Page Preview](screenshots/preview.png)
+![Landing Page Preview](https://github.com/BaranDogrular/responsive-landing-page/blob/f74f53fe2977bb339a9ee0431b4f116eab7a4795/screenshot..png)
 
 ---
 
